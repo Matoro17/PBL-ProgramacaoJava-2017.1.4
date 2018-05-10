@@ -1,0 +1,6 @@
+Tucuruvi,Parada Inglesa,2
+Parada Inglesa,Jardim São Paulo-Ayrton Senna,2
+Jardim São Paulo-Ayrton Senna,Santana,3
+Santana,Carandiru,2
+Carandiru,Portuguesa-Tietê,2
+Jardim São Paulo-Ayrton Senna,Tucuruvi,5
